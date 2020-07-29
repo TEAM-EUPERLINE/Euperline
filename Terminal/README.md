@@ -12,7 +12,7 @@ Terminalimizi Çalıştırmadan Önce İndirilmesi Gereken Paketleri Kurmak İç
 ```
 # ➤ :octocat: RUN IN TERMINAL  
 ```
-cd RE4P
+cd Euperline
 
 ./re4p.sh || sudo bash re4p.sh
 ```
