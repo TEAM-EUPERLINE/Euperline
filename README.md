@@ -12,7 +12,7 @@ Türkçe Metin Düzeltme [Turkish Text Correction]
 ```
 sudo apt install git
 
-git clone https://github.com/RE4P-EUPERLINE/Euperline-Project.git
+git clone https://github.com/TEAM-EUPERLINE/Euperline.git
 ```
 # ➤ BEFORE THE USING TOOLS
 ```
@@ -21,7 +21,7 @@ Paketlerin Kurulumu İçin ;
 
 EN : Before The Using Our Repositries The Packets Must Be Installed For Install Packets ;
 
-cd Acikhack2
+cd Euperline
 
 sudo bash re4p_paket.sh || ./re4p_paket.sh
 
