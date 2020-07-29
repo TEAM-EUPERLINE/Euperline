@@ -1,0 +1,15 @@
+# Otomatik Hata Düzeltme Çalıştırmadan Önce İndirmeniz Gerekenler
+```
+
+sudo apt-get install python3
+
+```
+# Otomatik Hata Düzeltmeyi Çalıştırmak İçin
+```
+python tr.py ...
+
+
+Üç nokta yerine (...) istediğiniz kelime veya cümleyi yazınız
+
+Otomatik hata düzeltme bünyesinde bulunan kelime ve cümle hazneleri sayesinde yazmış olduğunuz kelime ve cümlelerin hatalı olup olmadığını size bildirmektedir. Toplamda 60-70 bin kadar kelime ve cümle yapısına sahip bir sistemdir.
+```
