@@ -30,25 +30,25 @@ sudo apt install -y curl
 sudo apt install -y nmap
 sudo apt install -y toilet
 
-sudo apt install python3-pip
-sudo apt install python-pip
+sudo apt install -y python3-pip
+sudo apt install -y python-pip
 
-sudo pip3 install selenium
-sudo pip3 install pydub
-sudo pip3 install speechrecognition
-sudo pip3 install termcolor
-sudo pip3 install ns4
-sudo pip3 install bs4
-sudo pip3 install opensimplex
-sudo pip3 install pyqtgraph
-sudo pip3 install pyopengl
-sudo pip3 install qtopengl
-sudo pip3 install pyaudio
-sudo pip3 install webdriver-manager
+sudo pip3 install -y selenium
+sudo pip3 install -y pydub
+sudo pip3 install -y speechrecognition
+sudo pip3 install -y termcolor
+sudo pip3 install -y ns4
+sudo pip3 install -y bs4
+sudo pip3 install -y opensimplex
+sudo pip3 install -y pyqtgraph
+sudo pip3 install -y pyopengl
+sudo pip3 install -y qtopengl
+sudo pip3 install -y pyaudio
+sudo pip3 install -y webdriver-manager
 
-sudo sudo apt-get install python3-pyqt4.qtopengl
-sudo apt install python3-pyaudio
-sudo sudo apt install linuxbrew-wrapper
+sudo sudo apt-get install -y python3-pyqt4.qtopengl
+sudo apt install -y python3-pyaudio
+sudo sudo apt install -y linuxbrew-wrapper
 
 
 # echo -n -e ""$red"["$blue"RE4P"$yellow"@"$white"EUPERLINE"$red"]-["$yellow"~"$red"]"$transparent"" &
