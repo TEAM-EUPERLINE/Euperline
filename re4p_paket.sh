@@ -29,8 +29,8 @@ sudo apt install -y figlet
 sudo apt install -y curl
 sudo apt install -y nmap
 sudo apt install -y toilet
-s
-udo apt install python3-pip
+
+sudo apt install python3-pip
 sudo apt install python-pip
 
 sudo pip3 install selenium
