@@ -1,4 +1,4 @@
-![](su.png)
+
 # ➤ USING VOICE ASSISTANT SU
 ```
 chmod +x chromedriver
@@ -6,6 +6,7 @@ chmod +x chromedriver
 sudo python3 su.py
 
 ```
+![](su.png)
 # ➤ :octocat: FEATURES
 ```
 1) Youtube'dan birşeyler araştırabilir
