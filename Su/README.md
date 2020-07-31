@@ -1,4 +1,7 @@
 ![](su.png)
+
+![](su2.png)
+
 # ➤ USING VOICE ASSISTANT SU
 ```
 chmod +x chromedriver
