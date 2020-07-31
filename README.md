@@ -4,7 +4,6 @@
 ```
 EUPERLINE@RE4P Terminal
 Sesli Asistan [Voice Assistant]
-Tarayıcı [Browser]
 Yüz Tanıma [Face ID]
 Türkçe Metin Düzeltme [Turkish Text Correction]
 ```
