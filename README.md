@@ -47,5 +47,4 @@ EN : This Repositry Is A BETA Version And Prepared For Competetion.
 Web Sitesi :[euperline.com](euperline.com)
 </br>
 Instagram : [instagram.com](https://www.instagram.com/euperlineofficial/)     
-</br>
 LinkedIn :  [linkedin.com](https://www.linkedin.com/company/euperline/)
