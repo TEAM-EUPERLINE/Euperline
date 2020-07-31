@@ -14,6 +14,8 @@ python tr.py ...
 Otomatik hata düzeltme bünyesinde bulunan kelime ve cümle hazneleri sayesinde yazmış olduğunuz kelime ve cümlelerin hatalı olup olmadığını size bildirmektedir. Toplamda 60-70 bin kadar kelime ve cümle yapısına sahip bir sistemdir.
 ```
 
+![](hataduzeltme.png)
+
 # ➤ EUPERLINE LINUX SYSTEMS...
 
                           .
