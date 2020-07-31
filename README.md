@@ -40,7 +40,6 @@ Debian
 TR : Bu Repository Yarışma İçin Hazırlanan Bir BETA Sürümdür.
 
 EN : This Repositry Is A BETA Version And Prepared For Competetion.
-
 ```
 
 # ➤ :book: LINKS
