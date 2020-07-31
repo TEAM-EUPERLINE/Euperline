@@ -1,4 +1,4 @@
-![](term1.png)
+
 # ➤ EUPERLINE@RE4P
 ```
 > Terminal (V1)
@@ -24,6 +24,7 @@ cd Euperline
 > Ubuntu
 > Debian
 ```
+![](term1.png)
 # ➤ :book: LINKS
 
 Web Sitesi : [euperline.com](euperline.com)
