@@ -35,3 +35,12 @@ Otomatik hata düzeltme bünyesinde bulunan kelime ve cümle hazneleri sayesinde
         .........       .....       .........
        .........       .......       .........
       .........       .........       .........
+
+# ➤ :book: LINKS
+
+Web Sitesi : [euperline.com](euperline.com)
+</br>
+Instagram : [instagram.com](https://www.instagram.com/euperlineofficial/)
+</br>
+LinkedIn :  [linkedin.com](https://www.linkedin.com/company/euperline/)
+
