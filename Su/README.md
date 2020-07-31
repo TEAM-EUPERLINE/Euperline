@@ -8,6 +8,12 @@ chmod +x chromedriver
 
 sudo python3 su.py
 
+Bunların Dışında Kurulu Olan Linux Dağıtımınız da Google Chrome 
+Tarayıcısnının Kurulu Olması Gerekmektedir.
+
+https://chromedriver.chromium.org/ > Eğer ChromeDriver'ı
+Bu Link Üzerinden Güncelliyebilirsiniz.
+
 ```
 # ➤ :octocat: FEATURES
 ```
